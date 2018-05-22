@@ -1,0 +1,4 @@
+julia 0.6
+FFTW 0.0.4
+JLD 0.8.3
+PyPlot 2.5.0
